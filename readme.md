@@ -1,3 +1,2 @@
-# EXPENSIFY APP
-As seen in *The Complete React Web Developer Course (with Redux)* by Andrew Mead
-
+# React Boilerplate V2
+Contains React 16, Redux, React-Router, SCSS, Testing using Jest, Webpack, Heroku and Firebase configuration
